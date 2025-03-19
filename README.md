@@ -31,7 +31,7 @@ For more details, view or download the resume using the link below.
 
 ## 📂 File
 
-- [Vishwanath_Singh_Resume.pdf](Vishwanath_Singh_Resume.pdf)
+- [Vishwanath_Singh_Resume.pdf](Resume_Singh_Vishwanath.pdf)
 
 ---
 
