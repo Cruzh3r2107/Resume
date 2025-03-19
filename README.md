@@ -13,14 +13,15 @@ Welcome to my GitHub repository! This repository hosts my resume in PDF format. 
 
 ### Highlights:
 - **Education**:  
-  - Master's in Embedded and Cyber-Physical Systems, University of California Irvine (GPA: 3.78/4)  
+  - Master's in Embedded and Cyber-Physical Systems, University of California Irvine (GPA: 3.84/4)  
   - Bachelor's in Computer and Communication Engineering, Amrita Vishwa Vidyapeetham (GPA: 8.4/10)  
 
 - **Skills**:  
   C/C++, Python, Embedded Systems, Deep Learning, and more.
 
-- **Experience**:  
-  - **Embedded Engineering Intern**, Sieva Networks  
+- **Experience**:
+  - **Research Assitant**, UCI School of Engineering
+  - **Embedded Software Engineering Intern**, Sieva Networks  
   - **Cybersecurity Intern**, Mavro Mergers and Acquisition  
 
 - **Notable Projects**:  
